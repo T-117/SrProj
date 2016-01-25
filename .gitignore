@@ -66,3 +66,7 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+
+#Content not yet in the project
+Content/KiteDemo
+Content/StarterContent
